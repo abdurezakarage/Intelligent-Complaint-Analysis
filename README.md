@@ -113,4 +113,3 @@ The project includes comprehensive Jupyter notebooks for interactive exploration
 - **`preprocess.ipynb`**: Step-by-step data preprocessing
 - **`embeding.ipynb`**: Embedding generation and analysis
 - **`rag.ipynb`**: RAG pipeline implementation and testing
-
